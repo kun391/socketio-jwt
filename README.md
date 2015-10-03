@@ -5,7 +5,7 @@ Authenticate socket.io incoming connections with JWTs. This is useful if you are
 ## Installation
 
 ```
-npm install socketio-jwt
+npm i socketio-jwt-fork
 ```
 
 ## Example usage
